@@ -1,4 +1,4 @@
-# Lab-Act-No.-07_De-Vale
+# Lab-Act-No.-07_Medina
 
 Creating a Registration Form
 
